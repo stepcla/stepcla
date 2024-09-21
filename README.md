@@ -1,4 +1,4 @@
 - @stepcla
-- Interested in Hebrew, Aramaic, Coptic, Old-Norse, Faroese, Pali, Sanskrit, and languages in general
-- Currently learning Bohairic Coptic and working on translating Hasidic and Kabbalistic texts
+- Interested in various languages, including Hebrew, Aramaic, and Coptic. Also fascinated by the mancala board game Bao la Kiswahili
+- Currently working on translating Hasidic, Kabbalistic and Coptic texts
 
